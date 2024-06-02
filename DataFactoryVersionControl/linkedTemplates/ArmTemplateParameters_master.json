@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "DataFactoryVersionControl"
+		},
+		"link_storagegen2_csv_accountKey": {
+			"value": ""
+		},
+		"link_storagegen2_csv_properties_typeProperties_url": {
+			"value": "https://datastorageg.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
